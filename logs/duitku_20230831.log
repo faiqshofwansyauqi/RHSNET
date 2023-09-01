@@ -1,0 +1,329 @@
+Date:2023-08-31 20:21:51
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506111","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123KHOP5P5HVN3YN7L","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123KHOP5P5HVN3YN7L","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:21:54
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506114","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123EN07FRF0FQ8V604","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123EN07FRF0FQ8V604","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:21:56
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506116","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D00012376O1N2YKDKTO7KZ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D00012376O1N2YKDKTO7KZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:21:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506117","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123ARG54DRXK0XBG4H","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123ARG54DRXK0XBG4H","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:21:57
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506117","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123ARG54DRXK0XBG4H","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123ARG54DRXK0XBG4H","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:21:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506117","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123ARG54DRXK0XBG4H","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123ARG54DRXK0XBG4H","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:21:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506118","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123DMVV3E3NAQ20A48","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123DMVV3E3NAQ20A48","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:22:00
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506120","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123F0MCRYIL7KHIOD2","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123F0MCRYIL7KHIOD2","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:22:03
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506122","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"","lastName":"","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""},"shippingAddress":{"firstName":"","lastName":"","address":"","city":"","postalCode":"","phone":"081234567890","countryCode":""}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123TMC66TDCHZAILNX","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123TMC66TDCHZAILNX","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:22:08
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506128","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123WFZA2EKSQBJR7NQ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123WFZA2EKSQBJR7NQ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:23:14
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506194","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123376HZI122CXAKAN","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123376HZI122CXAKAN","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:25:00
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693506300","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001233K1I6FHRZUGGFMQ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001233K1I6FHRZUGGFMQ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:50:02
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507794","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123J3C81SKQMP8BT3N","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123J3C81SKQMP8BT3N","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:50:02
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507791","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001236WTA66M5W1CG1QM","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001236WTA66M5W1CG1QM","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:50:02
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507799","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001232EVLYO21YQX7JRE","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001232EVLYO21YQX7JRE","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:50:13
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507812","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123JWS5ENSI41FQ84J","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123JWS5ENSI41FQ84J","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:50:34
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507834","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123UMF4NPT58IGHFVV","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123UMF4NPT58IGHFVV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:51:28
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507887","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123CMRHYQ3DTZIPXFL","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123CMRHYQ3DTZIPXFL","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:51:37
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507897","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123J6S3UZ4C614X66B","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123J6S3UZ4C614X66B","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 20:53:11
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693507991","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123VOLPIEW5LDRP5C0","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123VOLPIEW5LDRP5C0","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:02:58
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512178","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001230NK1PSPJQAVCRNZ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001230NK1PSPJQAVCRNZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:02:59
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512179","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123FXJG0XFWE0SIZWB","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123FXJG0XFWE0SIZWB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:04:26
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512266","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001235OB7O4ETWK1O1GY","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001235OB7O4ETWK1O1GY","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:08:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512511","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D00012327BEKQNSDHWY55F","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D00012327BEKQNSDHWY55F","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:09:08
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512548","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123U5ATC3GPZTT5S3P","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123U5ATC3GPZTT5S3P","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:09:09
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512549","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123VAFBMGGAM52AAAW","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123VAFBMGGAM52AAAW","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:09:21
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693512561","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001236IBMOZMQ5NECBWZ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001236IBMOZMQ5NECBWZ","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:17:31
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693513050","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123AHPOBIXFBKDRQFR","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123AHPOBIXFBKDRQFR","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 22:38:02
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693514282","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123SVPCZ416X76DSJI","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123SVPCZ416X76DSJI","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:00:46
+Date:2023-08-31 23:00:46
+Date:2023-08-31 23:00:46
+METHOD:POST
+METHOD:POST
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+FUNCTION:Duitku\Pop->createInvoice
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693515642","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693515638","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123LJ5NTIJ8JT68Y8F","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123LJ5NTIJ8JT68Y8F","statusCode":"00","statusMessage":"SUCCESS"}
+
+RESPONSE:{"merchantCode":"D0001","reference":"D000123TRCHJADPVPO1TL0","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123TRCHJADPVPO1TL0","statusCode":"00","statusMessage":"SUCCESS"}
+
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693515634","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123C6H0OB0YANDYF7C","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123C6H0OB0YANDYF7C","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:02:51
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693515771","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123LN0P3KBC8P2JXYB","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123LN0P3KBC8P2JXYB","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:03:04
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693515784","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123P3WUNWTFQJCTD3V","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123P3WUNWTFQJCTD3V","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:03:15
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693515795","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123MFF08Q74OZ5NTBT","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123MFF08Q74OZ5NTBT","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:24:22
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517062","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123T0JZXSZSHGX4WPP","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123T0JZXSZSHGX4WPP","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:24:44
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517084","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123GI0MUVGJRODCP75","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123GI0MUVGJRODCP75","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:25:33
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517133","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123H0UTZAK1AWO4IX6","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123H0UTZAK1AWO4IX6","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:25:50
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517150","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123BB5ACIDBAZHDW1L","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123BB5ACIDBAZHDW1L","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:26:40
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517200","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123POSIJH1QKZ24JQY","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123POSIJH1QKZ24JQY","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:27:09
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517229","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123U88WGL1B845N3VV","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123U88WGL1B845N3VV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:27:40
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517260","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123E3746S5T46Y6188","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123E3746S5T46Y6188","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:27:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517261","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123T2DEBIUC5MT3DKV","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123T2DEBIUC5MT3DKV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:27:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517261","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123T2DEBIUC5MT3DKV","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123T2DEBIUC5MT3DKV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:27:41
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517261","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D000123T2DEBIUC5MT3DKV","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D000123T2DEBIUC5MT3DKV","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:33:20
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517600","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001237TIX21UYYOUD5VH","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001237TIX21UYYOUD5VH","statusCode":"00","statusMessage":"SUCCESS"}
+
+Date:2023-08-31 23:34:16
+METHOD:POST
+FUNCTION:Duitku\Pop->createInvoice
+URL:https://api-sandbox.duitku.com/api/merchant/createInvoice
+REQUEST:{"paymentAmount":10000,"merchantOrderId":"1693517656","productDetails":"Test Payment","additionalParam":"","merchantUserInfo":"","customerVaName":"John Doe","email":"customer@gmail.com","phoneNumber":"081234567890","itemDetails":[{"name":"Test Payment","price":10000,"quantity":1}],"customerDetail":{"firstName":"John","lastName":"Doe","email":"customer@gmail.com","phoneNumber":"081234567890","billingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"},"shippingAddress":{"firstName":"John","lastName":"Doe","address":"Jl. Kembangan Raya","city":"Jakarta","postalCode":"11530","phone":"081234567890","countryCode":"ID"}},"callbackUrl":"http://YOUR_SERVER/callback","returnUrl":"http://YOUR_SERVER/return","expiryPeriod":60}
+RESPONSE:{"merchantCode":"D0001","reference":"D0001236JKN8LHPMBYAXWJ","paymentUrl":"https://app-sandbox.duitku.com/redirect_checkout?reference=D0001236JKN8LHPMBYAXWJ","statusCode":"00","statusMessage":"SUCCESS"}
+
